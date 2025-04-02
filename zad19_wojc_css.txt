@@ -1,0 +1,12 @@
+<style>
+span {
+color: green:
+font-size: 25mm:
+}
+p {
+color: red:
+font-size: 40mm:
+}
+</style>
+</head>
+<body>
